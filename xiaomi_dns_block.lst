@@ -1,7 +1,3 @@
-# This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi.
-# 
-# Please help to collect domains!
-
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 account.preview.n.xiaomi.net
@@ -171,6 +167,7 @@ sec-cdn.static.xiaomi.net
 secode2.hd.xiaomi.com
 sfsapi.micloud.xiaomi.net
 sgpac.account.xiaomi.com
+sg-urc.io.mi.com
 shenghuo.xiaomi.com
 shoes.app-xae.xiaomi.com
 solve.msg.xiaomi.net
