@@ -31,7 +31,7 @@ Automatically generated list using [Sublert](https://github.com/yassineaboukir/s
 
 ## License
 
-This project is licensed under the GNU Lesser General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU Lesser General Public License v3.0 - see the [LICENSE](https://github.com/unknownFalleN/xiaomi-dns-blocklist/blob/master/LICENSE) file for details
 
 ## Advice
 
