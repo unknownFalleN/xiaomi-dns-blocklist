@@ -1,6 +1,6 @@
 # Xiaomi DNS Blocklist
 
-In this repository PiHole DNS blocklists are provided for Xiaomi.
+In this repository PiHole DNS blocklists are provided for Xiaomi Devices.
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Just add the raw list(s) in PiHole Settings/Blocklists and click save and update
 
 ### Prerequisites
 
-[PiHole Installtion](https://docs.pi-hole.net/main/basic-install/)
+[PiHole Installation](https://docs.pi-hole.net/main/basic-install/)
 
 ### Lists
 
