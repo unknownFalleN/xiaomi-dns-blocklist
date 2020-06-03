@@ -95,6 +95,8 @@ file.xmpush.xiaomi.com
 find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
+fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+fr.app.chat.global.xiaomi.net
 from.pandora.xiaomi.com
 gallery.cdn.pandora.xiaomi.com
 gallery.pandora.xiaomi.com
@@ -161,6 +163,7 @@ r.sg.sec.miui.com
 register.xmpush.global.xiaomi.com
 register.xmpush.xiaomi.com
 resolver.gslb.mi-idc.com
+resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 ruac.account.xiaomi.com
 sa.api.intl.miui.com
