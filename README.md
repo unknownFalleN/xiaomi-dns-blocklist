@@ -14,7 +14,7 @@ Just add the raw list(s) in PiHole Settings/Blocklists and click save and update
 
 #### xiaomi_dns_block.lst
 
-Manually collected DNS entries from Xiaomi  with the help of the community. Removed battery killig domains for mobile battery.
+Manually collected DNS entries from Xiaomi  with the help of the community. Removed battery killig domains for mobiles.
 
 #### xiaomi.com.txt
 
