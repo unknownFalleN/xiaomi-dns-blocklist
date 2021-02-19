@@ -38,6 +38,12 @@ account.xiaomi.com
 find.api.micloud.xiaomi.net
 ```
 
+### Updates of the Firmware
+
+```html
+update.miui.com
+```
+
 ## Built With
 
 - With much love and manual collection of the DNS entries  ;)
