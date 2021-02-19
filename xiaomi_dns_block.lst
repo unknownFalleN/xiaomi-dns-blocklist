@@ -1,3 +1,4 @@
+
 a.stat.xiaomi.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
@@ -55,6 +56,7 @@ be01.hh.xiaomi.com
 bgp.fe01.c3.xiaomi.com
 bk01.hh.xiaomi.com
 blog.xiaomi.com
+brs.api.intl.miui.com
 bss.pandora.xiaomi.com
 c.id.mi.com
 cc.sys.intl.xiaomi.com
@@ -64,11 +66,13 @@ cc2.sys.miui.com
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 cdn.ad.xiaomi.com
+cdn.awsde0-fusion.fds.api.mi-img.com
 cdn.fds-ssl.api.xiaomi.com
 clock.ad.xiaomi.com
 cn.app.chat.xiaomi.net
 cnc.fe01.lg.xiaomi.com
 config.kuyun.com
+connect.intl.rom.miui.com
 connect.rom.miui.com
 contactapi.micloud.xiaomi.net
 ctc.fe01.c3.xiaomi.com
@@ -181,6 +185,7 @@ resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 ruac.account.xiaomi.com
+sa-api.api.intl.miui.com
 sa.api.intl.miui.com
 sandbox.xmpush.xiaomi.com
 sdkconfig.ad.india.xiaomi.com
