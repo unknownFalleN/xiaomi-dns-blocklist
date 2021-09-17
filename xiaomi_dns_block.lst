@@ -15,6 +15,7 @@ api.account.xiaomi.com
 api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
 api.admob.xiaomi.com
+api.aurogon.intl.miui.com
 api.chat.xiaomi.net
 api.comm.miui.com
 api.cupid.ptqy.gitv.tv
@@ -127,7 +128,9 @@ huodong.xiaomi.com
 huosai.xiaomi.com
 i.mi.com
 i.xiaomi.com
+i2.api.io.mi.com
 idmb.app.chat.global.xiaomi.net
+idmb.register.xmpush.global.xiaomi.com
 igame.xiaomi.com
 image.pandora.xiaomi.com
 ime.api.xiaomi.com
@@ -136,6 +139,7 @@ in.find.api.micloud.xiaomi.net
 in.tv.global.mi.com
 iosdl.game.xiaomi.com
 jellyfish.pandora.xiaomi.com
+jupiter.intl.sys.miui.com
 lbs.pandora.xiaomi.com
 lg-bgp.pandora.xiaomi.com
 log.ad.xiaomi.com
@@ -226,11 +230,13 @@ test.zeus.ad.xiaomi.com
 thm.market.intl.miui.com
 thm.market.intl.xiaomi.com
 thm.market.xiaomi.com
+tracking.india.miui.com
 tracking.intl.miui.com
 tracking.miui.com
 trial.api.huangye.miui.com
 tv.app.migc.xiaomi.com
 update.avlyun.sec.miui.com
+update.intl.miui.com
 update.miui.com
 upgrade.mishop.pandora.xiaomi.com
 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
