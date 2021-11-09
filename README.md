@@ -24,6 +24,12 @@ Automatically generated list using [Sublert](https://github.com/yassineaboukir/s
 
 A collection of domains for the whitelist. These should be set manually in PiHole.
 
+### Xiaomi account management
+
+```html
+account.xiaomi.com
+```
+
 ### System app updater
 
 ```html
