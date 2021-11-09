@@ -42,6 +42,7 @@ find.api.micloud.xiaomi.net
 
 ```html
 update.miui.com
+update.intl.miui.com
 ```
 
 ## Built With
