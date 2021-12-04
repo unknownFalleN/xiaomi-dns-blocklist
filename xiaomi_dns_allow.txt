@@ -1,0 +1,8 @@
+account.xiaomi.com
+global.market.xiaomi.com
+us.find.api.micloud.xiaomi.net
+account.xiaomi.com
+find.api.micloud.xiaomi.net
+update.miui.com
+update.intl.miui.com
+api.io.mi.com
