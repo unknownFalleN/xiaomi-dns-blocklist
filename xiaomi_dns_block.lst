@@ -9,7 +9,6 @@ a.union.xiaomi.com
 abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
 account.preview.n.xiaomi.net
-account.xiaomi.com
 ad.cdn.pandora.xiaomi.com
 ad.mi.com
 ad.quickapp.hybrid.xiaomi.com
@@ -36,7 +35,6 @@ api.developer.xiaomi.com
 api.device.xiaomi.net
 api.g.micloud.xiaomi.net
 api.hybrid.xiaomi.com
-api.io.mi.com
 api.micloud.xiaomi.net
 api.miui.security.xiaomi.com
 api.miwifi.com
@@ -160,7 +158,6 @@ feedback.xmpush.global.xiaomi.com
 feedback.xmpush.xiaomi.com
 file.market.xiaomi.com
 file.xmpush.xiaomi.com
-find.api.micloud.xiaomi.net
 findapi.micloud.xiaomi.net
 flash.sec.intl.miui.com
 fr-api.xmpush.global.xiaomi.com
@@ -180,7 +177,6 @@ galleryc4l7.pandora.xiaomi.com
 game.ad.xiaomi.com
 game.xiaomi.com
 geofence.sys.miui.com
-global.market.xiaomi.com
 global.preview.app.market.pt.xiaomi.com
 global.search.xiaomi.net
 globalapi.ad.xiaomi.com
@@ -422,13 +418,10 @@ tvepg.pandora.xiaomi.com
 tvmanager.pandora.xiaomi.com
 tvstat.pandora.xiaomi.com
 update.avlyun.sec.miui.com
-update.intl.miui.com
-update.miui.com
 upgrade.mishop.pandora.xiaomi.com
 upgrade.pandora.xiaomi.com
 us-api-micloud-xiaomi-net-5630734.us-west-2.elb.amazonaws.com
 us.api.micloud.xiaomi.net
-us.find.api.micloud.xiaomi.net
 user.pandora.xiaomi.com
 userid.xiaomi.com
 video.intl.xiaomi.com
