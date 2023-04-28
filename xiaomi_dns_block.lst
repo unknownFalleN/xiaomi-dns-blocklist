@@ -169,6 +169,8 @@ fr.api.xmpush.global.xiaomi.com
 fr.app.chat.global.xiaomi.net
 fr.feedback.xmpush.global.xiaomi.com
 fr.register.xmpush.global.xiaomi.com
+fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
+fr.resolver.msg.global.xiaomi.net
 from.pandora.xiaomi.com
 g.galleryapi.micloud.xiaomi.net
 gallery.cdn.pandora.xiaomi.com
