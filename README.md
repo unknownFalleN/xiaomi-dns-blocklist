@@ -20,10 +20,6 @@ Manually collected DNS entries from Xiaomi with the help of the community.
 
 This list contains all domains from the list `xiaomi_dns_block.lst` and `xiaomi_dns_whitelist.lst` also included.
 
-### sublert lists
-
-Automatically generated list using [Sublert](https://github.com/yassineaboukir/sublert). This list contains all subdomains with TLS certificates from Xiaomi.com and mi.com. **These lists cannot be used directly in pihole.**
-
 ## Whitelist
 
 A collection of domains for the whitelist. These should be set manually in PiHole or use the list `xiaomi_dns_whitelist.lst`
@@ -59,7 +55,6 @@ api.io.mi.com
 ## Built With
 
 - With much love and manual collection of the DNS entries  ;)
-- [Sublert](https://github.com/yassineaboukir/sublert) - Sublert is a security and reconnaissance tool that was written in Python to leverage certificate transparency for the sole purpose of monitoring new subdomains deployed by specific organizations and issued TLS/SSL certificate.
 
 ## Authors
 
