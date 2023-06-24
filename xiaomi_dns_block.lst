@@ -18,7 +18,6 @@ ad.xiaomi.com
 analytics.ff.avast.sec.miui.com
 api.accelerator.intl.miui.com
 api.account.preview.n.xiaomi.net
-api.account.xiaomi.com
 api.ad.intl.xiaomi.com
 api.admob.xiaomi.com
 api.ads.xiaomi.com
@@ -196,7 +195,6 @@ hk.mibi.xiaomi.com
 hook.gitv.pandora.xiaomi.com
 huodong.xiaomi.com
 huosai.xiaomi.com
-i2.api.io.mi.com
 i.api.xmpush.xiaomi.com
 ident.mistat.xiaomi.com
 idmb-api.xmpush.global.xiaomi.com
@@ -210,7 +208,6 @@ ime.api.xiaomi.com
 imgg.traffic-media.co
 i.mi.com
 imp.xmpush.xiaomi.com
-in.find.api.micloud.xiaomi.net
 intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com
 in.tv.global.mi.com
 iosdl.game.xiaomi.com
@@ -318,7 +315,6 @@ resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 r.sg.sec.miui.com
 rtmpott.pandora.xiaomi.com
-ruac.account.xiaomi.com
 ru-api.xmpush.global.xiaomi.com
 ru.api.xmpush.global.xiaomi.com
 ru-feedback.xmpush.global.xiaomi.com
@@ -340,7 +336,6 @@ sentry.be.xiaomi.com
 sentry.pay.xiaomi.com
 sentry.pt.xiaomi.com
 sfsapi.micloud.xiaomi.net
-sgpac.account.xiaomi.com
 sgpapi.ad.intl.xiaomi.com
 sgp-api.xmpush.global.xiaomi.com
 sg-urc.io.mi.com
