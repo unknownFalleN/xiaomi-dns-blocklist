@@ -121,6 +121,7 @@ data.sec.miui.com
 default.data.mistat.xiaomi.com
 default.sdkconfig.ad.xiaomi.com
 de.pandora.xiaomi.com
+de-idm.api.io.mi.com
 dev.api.zhuti.n.xiaomi.com
 dev.market.n.xiaomi.com
 dev.staging.api.developer.n.xiaomi.com
@@ -187,6 +188,7 @@ global.preview.app.market.pt.xiaomi.com
 globalreport.ad.intl.xiaomi.com
 global.search.xiaomi.net
 gstat.pandora.xiaomi.com
+gtglobal.intl.miui.com
 gvod.aiseejapp.atianqi.com
 hd02.lg.xiaomi.com
 hd.xiaomi.com
@@ -197,6 +199,7 @@ huodong.xiaomi.com
 huosai.xiaomi.com
 i.api.xmpush.xiaomi.com
 ident.mistat.xiaomi.com
+idm.iot.mi.com
 idmb-api.xmpush.global.xiaomi.com
 idmb.api.xmpush.global.xiaomi.com
 idmb.app.chat.global.xiaomi.net
@@ -295,6 +298,7 @@ ottl7-l2.pandora.xiaomi.com
 pdc.micloud.xiaomi.net
 phonecallapi.micloud.xiaomi.net
 physeter-pdad.pt.xiaomi.com
+pi.ias.xiaomi.com
 pmall.migc.xiaomi.com
 pn.api.micloud.mi.com
 ppurifier.game.xiaomi.com
