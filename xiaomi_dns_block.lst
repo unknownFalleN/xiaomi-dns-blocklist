@@ -33,6 +33,7 @@ apidevicexiaominet-1824452031.ap-south-1.elb.amazonaws.com
 api.d.xiaomi.com
 api.g.micloud.xiaomi.net
 api.hybrid.xiaomi.com
+api.launcher.intl.miui.com
 api.micloud.xiaomi.net
 api.miui.security.xiaomi.com
 api.miwifi.com
@@ -170,6 +171,12 @@ fr.app.chat.global.xiaomi.net
 fr-app-chat-global-xiaomi-net1-1667981913.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 fr-app-chat-global-xiaomi-net2-2117517874.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-3-1830982956.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net4-368828178.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-5-1350631744.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-6-2041664722.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-7-1441165053.eu-central-1.elb.amazonaws.com
+fr-app-chat-global-xiaomi-net-8-491629200.eu-central-1.elb.amazonaws.com
 fr.feedback.xmpush.global.xiaomi.com
 from.pandora.xiaomi.com
 fr-register.xmpush.global.xiaomi.com
@@ -203,6 +210,18 @@ idm.iot.mi.com
 idmb-api.xmpush.global.xiaomi.com
 idmb.api.xmpush.global.xiaomi.com
 idmb.app.chat.global.xiaomi.net
+idmb-app-chat-global-xiaomi09-1256654958.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi10-407281533.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi07-1818086890.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-proxy-proto-1114919025.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi08-2123402879.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi05-1961044139.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi04-1301562198.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi03new-426797692.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi-1108233833.ap-south-1.elb.amazonaws.com
+idmb-app-chat-global-xiaomi06-2047145834.ap-south-1.elb.amazonaws.com
+resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 idmb.feedback.xmpush.global.xiaomi.com
 idmb.register.xmpush.global.xiaomi.com
 igame.xiaomi.com
@@ -280,6 +299,7 @@ m.track.ad.xiaomi.com
 m.zhuti.xiaomi.com
 netcheck.pandora.xiaomi.com
 new.api.ad.xiaomi.com
+newsfeed.api.intl.miui.com
 notice.game.xiaomi.com
 o2o.api.xiaomi.com
 o.bigdata.xiaomi.com
@@ -317,6 +337,7 @@ report.pt.xiaomi.com
 resolver.gslb.mi-idc.com
 resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
+resolver-msg-xiaomi-net-665721575.ap-south-1.elb.amazonaws.com
 r.sg.sec.miui.com
 rtmpott.pandora.xiaomi.com
 ru-api.xmpush.global.xiaomi.com
@@ -341,6 +362,7 @@ sentry.pay.xiaomi.com
 sentry.pt.xiaomi.com
 sfsapi.micloud.xiaomi.net
 sgpapi.ad.intl.xiaomi.com
+sg.api.miwifi.com
 sgp-api.xmpush.global.xiaomi.com
 sg-urc.io.mi.com
 shenghuo.xiaomi.com
